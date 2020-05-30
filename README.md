@@ -61,8 +61,7 @@ Finally, in extend administrative form of Drupal (d8zemsite.com/admin/modules), 
 May be you need to do this:
 
 ```sh
-$ cd /etc/hosts
-$ sudo nano hosts
+$ sudo nano /etc/hosts
 127.0.0.1 d8zem.com
 ```
 
