@@ -12,6 +12,7 @@ AngelZemm it's an example for passing data from a form to another keeping data b
 
   - From Drupal: None.. just Drupal Core. 
   - It was developed under PHP 7.1.32 (This is for site Drupal 8).
+  - It's required Composer.
 
 ### Installation
 
@@ -50,7 +51,7 @@ Finally, in extend administrative form of Drupal (d8zemsite.com/admin/modules), 
 
 ### Notes
 
-  - Module includes a hel page that contains links fot watching data saved.
+  - Module includes a help page that contains links fot watching data saved.
   - Content Entity was generated with Drupal console and it is not required create it as Content Type inside Drupal.
   - Module creates this tables for the Content Entity:
   -- enangelzemm
