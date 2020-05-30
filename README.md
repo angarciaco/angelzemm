@@ -62,7 +62,7 @@ May be you need to do this:
 
 ```sh
 $ sudo nano /etc/hosts
-127.0.0.1 d8zem.com
+127.0.0.1 d8zemsite.com
 ```
 
 ### Virtual Host
@@ -94,7 +94,7 @@ Drupal site was installed with MAMP and the settings used next:
 </VirtualHost>
 ```
 
-Finally, you need restart su server (Apache in this case).
+Finally, you need restart the web server (Apache in this case).
 
 
 | Account | Link |
